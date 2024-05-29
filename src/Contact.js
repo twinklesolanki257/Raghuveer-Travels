@@ -56,7 +56,7 @@ const Contact = () => {
                             <ul className="get_say_info_sec">
                                 <li>
                                     <i className="fa fa-envelope"></i>
-                                    <a href="mailto:singhsonu21887@gmail.com">Email: singhsonu21887@gmail.com</a>
+                                    <a href="mailto:singhsonu21887@gmail.com">Email: singhsonu@gmail.com</a>
                                 </li>
                                 <li>
                                     <i className="fa fa-whatsapp"></i>

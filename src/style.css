@@ -216,6 +216,7 @@ header a b {
     background-color: rgb(255, 255, 255);
     width: 80%;
     /* padding-top: 50px; */
+    margin-left: -45px !important;
   }
 
   .w-screen {
@@ -779,7 +780,7 @@ textarea {
   }
 
   .carbox {
-    height: 88vh;
+    height: 65vh;
   }
 
   .flip-box {
